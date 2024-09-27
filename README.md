@@ -37,6 +37,9 @@ Choose between two options:
 1. **Design Explanation and Justification**: A maximum 2-page document explaining your design choices, parts selection, and any trade-offs made. Include graphical communication to support your claims.
 2. **SolidWorks Project Files**: Submit a complete SolidWorks assembly model in a ZIP file. Ensure the archive is self-contained for easy viewing and extraction.
 
+To successfully complete this project, I will also provide:
+1. A detailed written explanation and justification of my design choices, addressing strengths and weaknesses. I need to create a set of visual assembly instructions for my 3-D printed design. The instructions should be in PDF or DOCX format, limited to 50 words and 2 pages, focusing primarily on visuals, similar to IKEA furniture assembly guides. 
+
 ### Important Notes
 
 - **Printing and Collection**: You are responsible for submitting your design files for 3D printing and collecting the printed parts. Detailed submission instructions and deadlines are provided in the course materials.
